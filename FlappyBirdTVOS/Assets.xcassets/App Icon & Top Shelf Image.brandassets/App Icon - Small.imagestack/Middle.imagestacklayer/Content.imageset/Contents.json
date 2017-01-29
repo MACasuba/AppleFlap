@@ -1,0 +1,13 @@
+{
+  "images" : [
+    {
+      "idiom" : "tv",
+      "filename" : "flappy-small-bg.png",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
